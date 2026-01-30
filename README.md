@@ -1,28 +1,20 @@
-# Resume HTML
+# HTML Resume Page
 
-A single-page resume website built using **pure HTML**, focusing on semantic structure, clarity, and a clean layout without using CSS.
+A single-page, pure HTML resume website built for the Web Dev Cohort 2026. This project focuses on semantic HTML structure without the use of CSS.
 
----
 
-## 🌐 Live Demo
-🔗 
+## Features
+- Semantic HTML5 structure.
+- Professional layout using tables and lists.
+- Clickable contact links (Email, Phone, Location).
 
----
+## Setup & Usage
+1. Clone the repository: `git clone https://github.com/GhostInHex/html-resume.git`
+2. Open `index.html` in any web browser to view the resume.
 
-## 🖼️ Preview
+## Deployment
+This project is hosted on Vercel. 
+- **Live Link:** https://html-resume-ten.vercel.app/
+
+## Preview
 ![Resume Preview](demo.png)
-
----
-
-## 🧰 Technologies Used
-- HTML5
-- Semantic HTML elements
-- Tables and lists only (no CSS or external libraries)
-
----
-
-## ✨ Project Features
-- Well-structured resume layout
-- Proper use of headings, sections, tables, and lists
-- Clean and readable content organization
-- Responsive through default browser rendering
